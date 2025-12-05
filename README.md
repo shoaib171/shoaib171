@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shoaib Rasheed  
-**Full Stack Software Engineer | JavaScript | TypeScript | Python | AI Engineering | Mern | Mean |Pern**
+**Full Stack Software Engineer | JavaScript | TypeScript | Python | AI Engineering | Mern | Mean | Pern**
 
 I'm a full-stack engineer with 4+ years of experience building scalable systems, modern web applications, and AI-powered automation solutions.I specialize in JavaScript, TypeScript, Python, and cloud technologies, with a strong focus on performance, distributed architectures, and system design principles. I enjoy creating intelligent, reliable, and production-ready systems that solve real-world problems at scale
 
