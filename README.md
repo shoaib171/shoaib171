@@ -59,7 +59,7 @@ Custom JavaScript-based web editor with real-time rendering.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-rho-six.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib171&theme=radical" height="160" />
 </p>
 
