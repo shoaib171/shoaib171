@@ -54,14 +54,13 @@ Custom JavaScript-based web editor with real-time rendering.
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=shoaib171&theme=radical" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="140" />
+  <img src="https://streak-stats.demolab.com?user=shoaib171&theme=radical" height="140" />
 </p>
+
 
 
 ---
