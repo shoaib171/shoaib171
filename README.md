@@ -60,15 +60,6 @@ Custom JavaScript-based web editor with real-time rendering.
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160">
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=shoaib171&theme=radical&cache_bust=1" height="160">
-</p>
-
-
-
-
-
-
 ---
 
 ## 💼 About Me
@@ -82,8 +73,8 @@ Custom JavaScript-based web editor with real-time rendering.
 
 ## 📫 Contact  
 - 📍 Lahore, Pakistan  
-- 💼 LinkedIn: *Add your link here*  
-- 🌐 Portfolio: *Add your website here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/shoaibrasheed171/*  
+
 
 ---
 
