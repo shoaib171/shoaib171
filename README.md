@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Shoaib Rasheed  
-**Full Stack Software Engineer | JavaScript | TypeScript | Python | AI Engineering**
+**Full Stack Software Engineer | JavaScript | TypeScript | Python | AI Engineering | Mern | Mean |Pern**
 
-I'm a full-stack engineer with 4+ years of experience building scalable systems, modern frontend applications, and AI-powered automation.  
-I love working with JavaScript, TypeScript, Python, cloud technologies, and intelligent systems designed for performance and real-world impact.
+I'm a full-stack engineer with 4+ years of experience building scalable systems, modern web applications, and AI-powered automation solutions.I specialize in JavaScript, TypeScript, Python, and cloud technologies, with a strong focus on performance, distributed architectures, and system design principles. I enjoy creating intelligent, reliable, and production-ready systems that solve real-world problems at scale
 
 ---
 
@@ -10,22 +9,25 @@ I love working with JavaScript, TypeScript, Python, cloud technologies, and inte
 
 ### **Frontend**
 - React | Next.js | Angular  
-- Tailwind | Material UI | Three.js  
-- HTML5 | CSS3 | Responsive Design  
+- Tailwind | Material UI | Three.js | shadcn Ui | chakra  
+- HTML5 | CSS3 | SCSS | Responsive Design  
 
 ### **Backend**
-- Node.js | Express.js  
+- Node.js | Express.js
+- Nest.js | Fastify 
 - Python | FastAPI | Flask  
-- REST APIs | Authentication | OAuth  
+- REST APIs | Authentication | OAuth | GraphQL | grpc
 
 ### **Databases**
 - MongoDB  
 - PostgreSQL  
-- MySQL  
+- MySQL
+- Firebase
+- supabase
 
 ### **Cloud & DevOps**
-- Docker  
-- Cloud (AWS / Vercel / Netlify)  
+- Docker  Contenarziation
+- Cloud (AWS / Vercel / Netlify Google)  
 - CI/CD Pipelines  
 
 ### **AI / Automation**
@@ -54,10 +56,13 @@ Custom JavaScript-based web editor with real-time rendering.
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-rho-six.vercel.app/api?username=shoaib171&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib171&theme=radical" height="160" />
 </p>
+
 
 ---
 
