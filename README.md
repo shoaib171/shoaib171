@@ -61,7 +61,7 @@ Custom JavaScript-based web editor with real-time rendering.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shoaib171&theme=radical" height="160" />
+<img src="https://streak-stats.demolab.com/?user=shoaib171&theme=radical" height="160"/>
 </p>
 
 
