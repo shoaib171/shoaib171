@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shoaib Rasheed  
 **Full-Stack Engineer | AI Solutions & Problem Solving | Cloud-Native Systems | JavaScript · TypeScript · Python**
 
-I'm a full-stack engineer with 4+ years of experience building scalable systems, modern web applications, and AI-powered automation solutions.I specialize in JavaScript, TypeScript, Python, and cloud technologies, with a strong focus on performance, distributed architectures, and system design principles. I enjoy creating intelligent, reliable, and production-ready systems that solve real-world problems at scale
+I'm a full-stack engineer with 5 years of experience building scalable systems, modern web applications, and AI-powered automation solutions.I specialize in JavaScript, TypeScript, Python, and cloud technologies, with a strong focus on performance, distributed architectures, and system design principles. I enjoy creating intelligent, reliable, and production-ready systems that solve real-world problems at scale
 
 ---
 
