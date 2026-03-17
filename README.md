@@ -40,17 +40,27 @@ I'm a full-stack engineer with 5 years of experience building scalable systems, 
 
 ## 🔥 Featured Projects
 
-### **🧠 Multi-platform-management-tool**
+## 🔥 Featured Projects
+
+### 🧠 Multi-Platform Management Tool
 Full automation workflow for managing Reddit & YouTube platforms using Node.js & automation APIs.
 
-### **⚽ Football Transfer Window – Microservices**
-Distributed microservices architecture built with TypeScript, event-based communication, and containerized services.
+### ⚽ Football Transfer Window – Microservices
+Distributed microservices architecture built with TypeScript,event-based communication, and containerized services.
 
-### **📅 Appointment Booking with Google Calendar**
+### 📄 Documatic — AI Document Management Platform
+Cloud-based document management SaaS for enterprises — automating document generation, contract sign-off, and delivery workflows. 
+Built full-stack using MERN stack with AI-powered document processing.
+
+### 🍔 PerkChops — Food Ordering & Rewards Platform
+Zero-commission food ordering platform with coin-based loyalty rewards system for NYC restaurants. Built with MERN stack.
+
+### 🛒 Obenan.ai — AI-Powered Local SEO SaaS
+AI-powered platform managing 130+ business directories, automated review responses, and local SEO optimization. Frontend built with 
+React.js & Next.js.
+
+### 📅 Appointment Booking with Google Calendar
 Google OAuth + Calendar API integration for real-time booking and scheduling.
-
-### **📝 Code Editor**
-Custom JavaScript-based web editor with real-time rendering.
 
 ---
 
