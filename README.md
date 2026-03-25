@@ -40,8 +40,6 @@ I'm a full-stack engineer with 5 years of experience building scalable systems, 
 
 ## 🔥 Featured Projects
 
-## 🔥 Featured Projects
-
 ### 🧠 Multi-Platform Management Tool
 Full automation workflow for managing Reddit & YouTube platforms using Node.js & automation APIs.
 
